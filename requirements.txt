@@ -1,4 +1,4 @@
-Fiona
-GDAL
+GDAL==2.3.0
+Fiona==1.7.11.post2
 pyshp
 geojson
